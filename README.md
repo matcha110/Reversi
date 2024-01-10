@@ -2,6 +2,6 @@ Reversi対戦ゲーム
 
 フロントエンド：Typescript
 
-バックエンド：Node.js
+バックエンド：Node.js, FW：Express
 
 DB：MySQL
